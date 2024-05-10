@@ -1,0 +1,62 @@
+<!DOCTYPE article>
+<article>
+	<info>
+		<title> Informal </title>
+		<address>
+			<city> Nada</city>
+			<phone>6</phone>
+		</address>
+	</info>
+	<title>
+		Titulo Grande
+	</title>
+	<para>
+		<informaltable>
+			<tgroup>
+				<thead>
+					<row>
+						<entry>
+							Link
+						</entry>
+						<entry>
+							<para>
+								Cabeza
+							</para>
+						</entry>
+					</row>
+				</thead>
+				<tbody>
+					<row>
+						<entry>
+							<para>
+								Contenido
+							</para>
+						</entry>
+						<entry>
+							<para>
+								mas coont
+							</para>
+						</entry>
+					</row>
+				</tbody>
+			</tgroup>
+		</informaltable>
+		<link xlink:href="https://en.wikipedia.org/wiki/LALR_parser">Texto</link>
+		<important>
+			<title> Titulo Importante </title>
+			<para>
+				Texto importante
+			</para>
+		</important>
+	</para>
+	<section>
+		<title> Importante </title>
+		<para> Las cucarachas son dragones </para>
+	</section>
+</article>
+	
+
+	
+
+
+

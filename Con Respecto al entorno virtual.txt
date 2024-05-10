@@ -1,0 +1,26 @@
+Yo estuve trabajando con git y un entorno virtual, es algo asi como una instancia limpia de 
+Python sin librerias descargadas.
+Para conseguir esa funcionalidad primero descargue 
+pip install virtualenv
+
+Luego cree los directorios de proyecto, esos que ven ahi. y luego agregue uno que seria el que alojaria las librerias mediante
+cd-> para acceder al directorio de mi proyecto : E:/../ModernParser/
+
+python -m venv nombre_entorno_virtual
+
+Luego, para instalar las librerias se debe activar (IMPORTANTE SIEMPRE DEBE ACTIVARSE y 
+MANTENER ABIERTA LA CONSOLA DONDE LA ACTIVASTE)
+
+cd nombre_entorno_virtual
+source Scripts/activate 
+    
+Para instalar los paquetes simplemente vuelva atras con 
+
+cd y cd E:/../ModernParser/
+
+y luego 
+
+pip install "package-name"
+
+Video que ayuda a guiarse, ver los primeros 3 minutos
+https://youtu.be/rZcdhles6vQ?list=PLCC34OHNcOtpmCA8s_dpPMvQLyHbvxocY

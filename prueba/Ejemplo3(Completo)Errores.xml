@@ -1,0 +1,59 @@
+<!DOCTYPE article>
+<harticle>
+	<info>
+		<para> 	Texto informativo </para>
+		<tile> Titulo de Informacion Nacional </title>
+		<address>
+			<city> Ukraine</city>
+			<phone>6913333555</phone>
+		</address>
+	</info>
+	<title>
+		<section>
+			<para>
+				section 1
+			</para>
+		</section>
+		El dia que el sol se volvio Ario
+	</title>
+	<para>
+		<table>
+			<tgroup>
+				<thead>
+					<row>
+						<entry>
+							Link
+						</entry>
+					</row>
+				</thead>
+				<tbody>
+					<row>
+						<entry>
+							<mediaobject>
+								<imageobject>
+									<info>
+										<title>Esteros de ibera</title>
+									<imagedata fileref="https://compote.slate.com/images/2f0daf07-3137-4647-aaa4-b0159eeb573f.jpeg?crop=1560%2C1040%2Cx0%2Cy0"/>								
+								</imageobject>
+							</mediaobject>
+						</entry>
+					<row>
+				</tbody>
+			</tgroup>
+		</ttable>
+		<link xlink:href="https://en.wikipedia.org/wiki/LALR_parser">Texto</link>
+		<important>
+			<title> Titulo Importante </title>
+			<para>
+				Texto importante
+			<para>
+		</important>
+	</para>
+	<section>
+		<title1> ROMANIA ES LIBRE </title1>
+		<para> En el dia de 1992 el presidente de las Naciones Unidas decidio firmar el acuerdo intergalactico de Barsovia </para>
+	</secction>
+</article>
+	
+
+	
