@@ -1174,7 +1174,7 @@ class Barra(QWidget):
 class MainWindow(QMainWindow):
     def __init__(self):
         super().__init__()
-        self.xml_Name = "ARTICULO.xml"
+        self.xml_name = "ARTICULO.xml"
         self.codigo = ""
         self.errores = 0
         # Crear Titulo y Ícono

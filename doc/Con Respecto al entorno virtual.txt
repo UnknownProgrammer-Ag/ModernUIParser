@@ -8,11 +8,16 @@ cd-> para acceder al directorio de mi proyecto : E:/../ModernParser/
 
 python -m venv nombre_entorno_virtual
 
+Si quieres renombrar en WINDOWS (Dentro de la carpeta contenedora)
+rename _Nombre_Antiguo_  _Nombre_Nuevo_
+
 Luego, para instalar las librerias se debe activar (IMPORTANTE SIEMPRE DEBE ACTIVARSE y 
 MANTENER ABIERTA LA CONSOLA DONDE LA ACTIVASTE)
 
 cd nombre_entorno_virtual
 source Scripts/activate 
+EN WINDOWS
+nombre_entorno_virtual\Scripts\activate.bat
     
 Para instalar los paquetes simplemente vuelva atras con 
 
@@ -22,5 +27,13 @@ y luego
 
 pip install "package-name"
 
+SI YA TIENES UN REQUIREMENTS.txt
+pip install -r requirements.txt (-r es una bandera para decirle a pip que es un requirements.txt)
+
 Video que ayuda a guiarse, ver los primeros 3 minutos
 https://youtu.be/rZcdhles6vQ?list=PLCC34OHNcOtpmCA8s_dpPMvQLyHbvxocY
+
+Para desactivar
+deactivate en cualquier OS
+EN WINDOWS
+nombre_entorno_virtual\Scripts \activate.bat
